@@ -22,3 +22,24 @@ main {
     margin: 30%;
     padding: 20%;
 };
+
+.favorable {
+    border-radius: 10px;
+    padding: 5%;
+    background-color: green;
+    color: white;
+}
+  
+.moderate {
+    border-radius: 10px;
+    padding: 5%;
+    background-color: orange;
+    color: white;
+}
+  
+.severe {
+    border-radius: 10px;
+    padding: 5%;
+    background-color: red;
+    color: white;
+};
